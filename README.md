@@ -1,11 +1,5 @@
 markdown
 ---
-title: Docker Desktop 启动失败故障排查记录（Windows + WSL2）
-author: 高飞
-date: 2025-10-02
-tags: [Docker, WSL2, 故障排查, Windows, 系统优化, 节点管理器]
-description: 一次因系统卡顿引发的 Docker Desktop 启动失败问题，通过彻底清理残留配置并重新安装成功解决。
----
 
 # Docker Desktop 启动失败故障排查记录（Windows + WSL2）
 
